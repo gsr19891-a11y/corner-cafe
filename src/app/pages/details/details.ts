@@ -65,7 +65,7 @@ export class Details {
         const limit = data.data.products.slice(0, 3);
         const randomize = limit.sort(() => Math.random() - 0.5).slice(0, 4);
         this.allProduct.set(randomize);
-
+        
         console.log(this.allProduct());
         this.change.detectChanges();
       },
