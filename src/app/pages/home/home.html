@@ -4,7 +4,7 @@
       <div class="main-section1">
         <h1>{{ 'HOME_PAGE.HERO_TITLE' | translate }}</h1>
         <p>{{ 'HOME_PAGE.HERO_SUBTITLE' | translate }}</p>
-        <button routerLink="/menu">{{ 'HOME_PAGE.HERO_BTN' | translate}}</button>
+        <button (click)="openWolt()">Order Now In Wolt! <img class="wolt" src="/wolt.avif" alt="Wolt icon"></button>
       </div>
     </section>
 

@@ -27,11 +27,14 @@ langService = inject(LangService)
     private authService: AuthService,
   ) {}
 
-  ngOnInit() {
-    console.log(this.allProducts);
 
-    
-  }
+
+  openWolt() {
+  window.open(
+    'https://wolt.com/ka/geo/tbilisi/restaurant/shakari-bakery',
+    '_blank'
+  );
+}
 
 
 }

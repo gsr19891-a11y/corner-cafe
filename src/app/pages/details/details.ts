@@ -170,6 +170,13 @@ console.log(message);
 }
 
 
+openWolt() {
+  window.open(
+    'https://wolt.com/ka/geo/tbilisi/restaurant/shakari-bakery',
+    '_blank'
+  );
+}
+
 
 
 
