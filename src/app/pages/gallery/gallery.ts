@@ -16,7 +16,7 @@ export class Gallery {
   public galleryItems = [
     { image: '/gallery2.webp', title: 'Syrnik', category: 'Desserts' },
     { image: '/gallery3.webp', title: 'Syrnik', category: 'Desserts' },
-    { image: '/gallery4.webp', title: 'Syrnik', category: 'Desserts' },
+    { image: '/about2.png', title: 'Syrnik', category: 'Desserts' },
     { image: '/gallery5.webp', title: 'Syrnik', category: 'Desserts' },
     { image: '/gallery6.webp', title: 'Syrnik', category: 'Desserts' },
     { image: '/gallery7.webp', title: 'Syrnik', category: 'Desserts' },

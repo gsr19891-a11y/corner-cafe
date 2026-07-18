@@ -149,7 +149,7 @@ public productImages = computed(() => {
 
  sendToWhatsapp(car: any) {
 
-const phone = '595225485';
+const phone = '595555555';
 
 const message = `
 Здравствуйте.
@@ -169,13 +169,6 @@ console.log(message);
   );
 }
 
-
-openWolt() {
-  window.open(
-    'https://wolt.com/ka/geo/tbilisi/restaurant/shakari-bakery',
-    '_blank'
-  );
-}
 
 
 

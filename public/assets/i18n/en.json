@@ -1,11 +1,11 @@
 {
 "HOME_PAGE": {
-    "HERO_TITLE": "Syrniki • Bliny • Coffee & Dessert",
+    "HERO_TITLE": "Corner • coffee & desserts • Tbilisi",
     "HERO_SUBTITLE": "Fresh & Frozen Tbilisi delivery",
     "HERO_BTN": "Check Now",
     "POPULAR_TITLE": "Popular Dishes",
     "STORY_TITLE": "Our Story",
-    "STORY_DESC1": "At Shakari, we believe that great food brings people together. Our chefs use only the freshest ingredients to create dishes that delight your taste buds and warm your heart.",
+    "STORY_DESC1": "At Corner, we believe that great food brings people together. Our chefs use only the freshest ingredients to create dishes that delight your taste buds and warm your heart.",
     "STORY_DESC2": "From traditional recipes passed down through generations to innovative modern cuisine, every dish is crafted with passion and care. We're committed to delivering not just meals, but memorable dining experiences right to your door.",
     "STORY_BTN": "Explore Our Menu"
   },
@@ -23,13 +23,13 @@
   },
   "ABOUT": {
     "HERO": {
-      "TITLE": "About SHAKARI Cafe",
+      "TITLE": "About Corner Cafe",
       "SUBTITLE": "Homemade food cooked with love and delivered straight to your table in Tbilisi"
     },
     "STORY": {
-      "BADGE": "SHAKARI",
+      "BADGE": "Corner",
       "TITLE": "Our Story",
-      "TEXT1": "Welcome to SHAKARI Cafe! We began our journey with a simple idea: to bring back the authentic, warm, and comforting taste of homemade syrniki and bliny that everyone loves.",
+      "TEXT1": "Welcome to Corner Cafe! We began our journey with a simple idea: to bring back the authentic, warm, and comforting taste of homemade syrniki and bliny that everyone loves.",
       "TEXT2": "We carefully select fresh cottage cheese, use natural ingredients, and prepare everything by hand. Our menu features not only traditional breakfasts but also exquisite French pastries, éclairs, and specialty coffee."
     },
     "VALUES": {
@@ -68,7 +68,7 @@
     }
   },
     "PRODUCT_DETAILS": {
-    "DESCRIPTION": "At Shakari you will find not only traditional breakfasts, but also exquisite French pastries, delicious éclairs and our signature coffee!",
+    "DESCRIPTION": "At Corner you will find not only traditional breakfasts, but also exquisite French pastries, delicious éclairs and our signature coffee!",
     "YOU_MAY_ALSO_LIKE": "You May Also Like"
   }
 
