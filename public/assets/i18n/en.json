@@ -24,7 +24,7 @@
   "ABOUT": {
     "HERO": {
       "TITLE": "About Corner Cafe",
-      "SUBTITLE": "Homemade food cooked with love and delivered straight to your table in Tbilisi"
+      "SUBTITLE": "Homemade food cooked with love"
     },
     "STORY": {
       "BADGE": "Corner",
@@ -63,7 +63,7 @@
     },
     "FOOTER": {
       "TITLE": "Want to try these?",
-      "TEXT": "All items are prepared daily using premium ingredients and are available for delivery.",
+      "TEXT": "All items are prepared daily using premium ingredients.",
       "BUTTON": "Check Now"
     }
   },
